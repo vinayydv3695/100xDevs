@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "30d85418c6857cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21f20f69571142c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff23299123f0ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ansible"
+            }
+          },
+          {
+            "id": "f8cda1696b4627d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/HTTP/2Understanding HTTP Servers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2Understanding HTTP Servers"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84ebbb53f0130ae9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcdd5858d31de9a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e7f860b0839c010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "55b217e2b2cedfee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "141c5369ecdd1ba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae0a29b183bfb05",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0dc3a8d0defe528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f3cbf8b6553051",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ansible.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ansible"
+            }
+          },
+          {
+            "id": "726aee1ce10f2d65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "86c94df8c342aed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2fd5610514e81bfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8cda1696b4627d5",
+  "lastOpenFiles": [
+    "Javascript/HTTP/HTTP Servers.md",
+    "Javascript/HTTP/2Understanding HTTP Servers.md",
+    "Javascript/HTTP",
+    "Javascript/Thenable vs Promise.md",
+    "Javascript/Node.js.md",
+    "Javascript/Npm.md",
+    "Javascript/Promises in js.md",
+    "Javascript/CLI.md",
+    "Welcome.md",
+    "dsa.md",
+    "DS Notes Major.md",
+    "Ansible.md",
+    "Javascript",
+    "node.js"
+  ]
+}
